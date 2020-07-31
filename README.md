@@ -1,6 +1,3 @@
-REEEEEEEEEEEEEEEEEEEEEE
-
-Nvm, let's start
 
 Henlo I am Jamie H
 
