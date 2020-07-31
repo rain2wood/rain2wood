@@ -9,5 +9,5 @@ Projects :
 
 Contact me on [Telegram](https://t.me/henloboi)
 
-Now imma sleep, kthxbye
+![image](https://github.com/JamieHoSzeYui/JamieHoSzeYui/blob/master/brrrr.gif)
 
