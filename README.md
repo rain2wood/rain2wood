@@ -9,5 +9,5 @@ Projects :
 
 Contact me on [Telegram](https://t.me/henloboi)
 
-![image](https://github.com/JamieHoSzeYui/JamieHoSzeYui/blob/master/brrrr.gif)
+![image](https://github.com/JamieHoSzeYui/JamieHoSzeYui/blob/master/2.gif)
 
