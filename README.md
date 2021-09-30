@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=JamieHoSzeYui)
 
-Buildbot | Wanting something to kill time
+Buildbot | Student by day, reverse enginner by night.
+
+Currently learning Assembly.
 
 Now Playing: [Wake Up by Desired](https://open.spotify.com/track/5U3mwPXI5hdh7LoLmGXMsh?si=F4zLabWKS22qKzh2rfen7A&utm_source=copy-link)
