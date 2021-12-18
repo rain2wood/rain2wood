@@ -6,6 +6,6 @@
 
 Buildbot | Student by day, reverse enginner by night.
 
-Currently learning Assembly.
+`B80E0CE3 1EFF2FE1`
 
-Now Playing: [Wake Up by Desired](https://open.spotify.com/track/5U3mwPXI5hdh7LoLmGXMsh?si=F4zLabWKS22qKzh2rfen7A&utm_source=copy-link)
+Now Playing: [How Do You Love Someone](https://open.spotify.com/track/1mMIIaZMPKzfI7ZIeseLfH?si=9d3fd8224824413d) by [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL)
