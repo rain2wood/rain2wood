@@ -4,4 +4,4 @@
 
 `B80E0CE3 1EFF2FE1`
 
-Now Playing: [How Do You Love Someone](https://open.spotify.com/track/1mMIIaZMPKzfI7ZIeseLfH?si=9d3fd8224824413d) by [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fdo52qqf2hzolahwtkx4jrq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21fdo52qqf2hzolahwtkx4jrq&redirect=true)
