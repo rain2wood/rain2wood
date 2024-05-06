@@ -1,0 +1,43 @@
+[ 
+
+    {
+        "id": "africa",
+        "name": "Deuces",
+        "artist": "Kelvin McLeod (incompetech.com)",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f1.mp3",
+        "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
+    },
+
+    {
+        "id": "starlight",
+        "name": "Faster Does It",
+        "artist": "Kelvin McLeod (incompetech.com)",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f2.mp3",
+        "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
+    },
+
+    {
+        "id": "jupiter",
+        "name": "George Street Shuffle",
+        "artist": "Kelvin McLeod (incompetech.com)",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f3.mp3",
+        "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
+    },
+
+    {
+        "id": "kawaii",
+        "name": "Mining by Moonlight",
+        "artist": "Kelvin McLeod (incompetech.com)",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f4.mp3",
+        "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
+    },
+
+    {
+        "id": "melody",
+        "name": "Nouvelle Noel",
+        "artist": "Kelvin McLeod (incompetech.com)",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f4.mp3",
+        "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
+    }
+
+]
