@@ -50,7 +50,7 @@
         "name": "Clair De Lune",
         "artist": "Claude Debussy",
         "album": "Unknown",
-        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/s1.mp3",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s1.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
 
@@ -59,7 +59,7 @@
         "name": "Rêverie",
         "artist": "Claude Debussy",
         "album": "Unknown",
-        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/s2.mp3",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s2.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
 
@@ -68,7 +68,7 @@
         "name": "The Planets: Venus, the Bringer of Peace",
         "artist": "Gustav Holst",
         "album": "Unknown",
-        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/s3.mp3",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s3.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
 
@@ -77,7 +77,7 @@
         "name": "Moonlight Sonata, First Movement",
         "artist": "Ludwig van Beethoven",
         "album": "Unknown",
-        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/s4.mp3",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s4.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
 
@@ -86,7 +86,7 @@
         "name": "Träumerei",
         "artist": "Robert Schumann",
         "album": "Unknown",
-        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/s5.mp3",
+        "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s5.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     }
 
