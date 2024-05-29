@@ -4,7 +4,6 @@
         "id": "africa",
         "name": "Deuces",
         "artist": "Kelvin McLeod (incompetech.com)",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f1.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -13,7 +12,6 @@
         "id": "starlight",
         "name": "Faster Does It",
         "artist": "Kelvin McLeod (incompetech.com)",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f2.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -22,7 +20,6 @@
         "id": "jupiter",
         "name": "George Street Shuffle",
         "artist": "Kelvin McLeod (incompetech.com)",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f3.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -31,7 +28,6 @@
         "id": "kawaii",
         "name": "Mining by Moonlight",
         "artist": "Kelvin McLeod (incompetech.com)",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f4.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -40,7 +36,6 @@
         "id": "melody",
         "name": "Nouvelle Noel",
         "artist": "Kelvin McLeod (incompetech.com)",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/focus/f5.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -49,7 +44,6 @@
         "id": "s1",
         "name": "Clair De Lune",
         "artist": "Claude Debussy",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s1.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -58,7 +52,6 @@
         "id": "s2",
         "name": "Rêverie",
         "artist": "Claude Debussy",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s2.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -67,7 +60,6 @@
         "id": "s3",
         "name": "The Planets: Venus, the Bringer of Peace",
         "artist": "Gustav Holst",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s3.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -76,7 +68,6 @@
         "id": "s4",
         "name": "Moonlight Sonata, First Movement",
         "artist": "Ludwig van Beethoven",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s4.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     },
@@ -85,7 +76,6 @@
         "id": "s5",
         "name": "Träumerei",
         "artist": "Robert Schumann",
-        "album": "Unknown",
         "audpath": "https://github.com/SMSOSS/DeStressOSS/raw/master/tracks/sleep/s5.mp3",
         "artpath": "https://www.chsc.hk/ssp2023/pic/logo_303.jpg"
     }
